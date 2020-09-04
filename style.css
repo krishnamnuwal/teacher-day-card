@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  margin-left: 10%;
+}
+button {
+  background-color:#f44336;;
+  border-radius:12px; 
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 40px;
+}
